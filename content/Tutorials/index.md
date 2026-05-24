@@ -8,13 +8,37 @@ tags:
 toc: true
 ---
 
+
+## The tutorials
+
+[Best Shadows & Highlight techniques](/tutorials/#game-changer---best-shadows--higlights-techniques)
+
+[How to process a Sunset](/tutorials/#game-changer---how-to-process-a-sunset)
+
+[Using Leds's image](/tutorials/#game-changer-using-leds-image)
+
+[Mastery of colors - Film simulation](/tutorials/#game-changer--mastery-of-colors--film-simulation)
+
+[Rocks image](/tutorials/#game-changer-a-complete-process-on-a-user-rocks-image)
+
+[Harvest mouse](/tutorials/#game-changer-using-harvest-mouse)
+
+[Young girl - noisy image](/tutorials/#game-changer-young-girl---noisy-image)
+
+[Pagodas - How to process Local Contrast &  Clarity](/tutorials/#pagodas---how-to-process-local-contrast---clarity)
+
+
+As a reminder: all these tutorials are designed for teaching, rather than achieving the best possible result (which, by the way, is quite subjective). What I'm fairly certain of is that out-of-gamut data (here, sRGB) is handled 99% of the time, along with various artifacts. It's very easy to create 'flashy' images, but these will be out of bounds.
+
+
+The first tutorial, 'Best Shadows & Highlights Techniques', is the most detailed in its explanation of each method or tool (except for noise reduction). To avoid overloading the other tutorials with repetition, prior knowledge of the explanations will be assumed. However, there are some links to the relevant sections in the other tutorials.
+
 ## Introduction : What is a "Game changer"?
 
 ‘Game changer’ - in French, the term ‘bouleverseur’ suits me well as a translation: it aims to change the usual way of thinking and acting in terms of image processing. Before changing the way we do things, we must first agree on the way we see things. In french a great sociologist, now deceased, said : "L'accord sur ma manière de faire est avant tout un accord sur la manière de voir" (Jean-Daniel Reynaud : 1926 - 2019).
 
 
 This concept isn't about forcing you to change your image processing methods, but rather about trying a different approach based on principles that solve (at least partially, I believe) difficult image processing problems, using new concepts and methods. I'm not talking about tools here, but meta-methods: how to proceed and why this processing method is preferable to another for this type of image. There isn't a single method that works in all cases, but rather principles based on specific objectives.
-
 
 ### A bit of history - the implications of the context
 
@@ -137,29 +161,6 @@ You can also 'replace' Contrast Enhancement in 'Abstract Profiles' with Local Co
 [Local contrast & Clarity](local_adjustments/#how-to-change-local-contrast--clarity-and-sharp-mask)
 
 
-## The tutorials
-
-[Best Shadows & Highlight techniques](/tutorials/#game-changer---best-shadows--higlights-techniques)
-
-[How to process a Sunset](/tutorials/#game-changer---how-to-process-a-sunset)
-
-[Using Leds's image](/tutorials/#game-changer-using-leds-image)
-
-[Mastery of colors - Film simulation](/tutorials/#game-changer--mastery-of-colors--film-simulation)
-
-[Rocks image](/tutorials/#game-changer-a-complete-process-on-a-user-rocks-image)
-
-[Harvest mouse](/tutorials/#game-changer-using-harvest-mouse)
-
-[Young girl - noisy image](/tutorials/#game-changer-young-girl---noisy-image)
-
-[Pagodas - How to process Local Contrast &  Clarity](/tutorials/#pagodas---how-to-process-local-contrast---clarity)
-
-
-As a reminder: all these tutorials are designed for teaching, rather than achieving the best possible result (which, by the way, is quite subjective). What I'm fairly certain of is that out-of-gamut data (here, sRGB) is handled 99% of the time, along with various artifacts. It's very easy to create 'flashy' images, but these will be out of bounds.
-
-
-The first tutorial, 'Best Shadows & Highlights Techniques', is the most detailed in its explanation of each method or tool (except for noise reduction). To avoid overloading the other tutorials with repetition, prior knowledge of the explanations will be assumed. However, there are some links to the relevant sections in the other tutorials.
 
 ### Game Changer - Best Shadows & Higlights techniques 
 
