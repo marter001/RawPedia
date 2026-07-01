@@ -7,6 +7,7 @@ contributors:
   - XavAL
   - Thanatomanic
   - Benitoite
+  - marter001
 tags:
   - 'General Information'
 toc: true
@@ -14,7 +15,7 @@ toc: true
 
 ![](rt_55_trains.png)
 
-## Introduction
+## Einführung
 
 The Image Editor tab is where you tweak your photos. By default
 RawTherapee is in "Single Editor Tab Mode, Vertical Tabs" (SETM/VT)
